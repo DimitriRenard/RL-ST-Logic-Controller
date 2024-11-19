@@ -92,7 +92,7 @@ END_FOR;
 - Task programs example:
 ```
 (*Task 1 : GConv1_T1*)
-#FTX10 := #task[1].IS AND #task[1].AUT AND #task[1].IC;
+#FTX10 := #task[1].AUT;
 #FTX11 := #X11 AND "wait1";
 
 #X10 := #FTX11 OR #X10 AND NOT #FTX10 OR "init";
