@@ -4,7 +4,7 @@ This repository contains a PLC implementation of the proposed methodology:
   - Control table learned by Reinforcement Learning
   - Operating part simulation Factory IO scene 
 
-![alt text](img/POC_img1.PNG)
+![System_picture](img/POC_img1.PNG)
 
 
 |     Task    |     Component             |     Description                     |     Non-parallel compatible tasks    |
